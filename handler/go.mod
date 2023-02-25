@@ -10,7 +10,7 @@ require (
 	github.com/gruntwork-io/terratest v0.34.6
 	github.com/tealeg/xlsx v1.0.5
 	golang.org/x/net v0.0.0-20210510120150-4163338589ed // indirect
-	golang.org/x/sys v0.0.0-20210514084401-e8d321eab015 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	gotest.tools/v3 v3.0.3
 )
